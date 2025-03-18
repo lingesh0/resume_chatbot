@@ -1,0 +1,6 @@
+gradio
+spacy
+fitz
+python-docx
+google-generativeai
+
