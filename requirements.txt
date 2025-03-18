@@ -1,6 +1,6 @@
-gradio
+hgradio
 spacy
 fitz
 python-docx
 google-generativeai
-
+PyMuPDF
